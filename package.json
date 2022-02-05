@@ -1,0 +1,26 @@
+{
+  "name": "cyp",
+  "version": "1.0.0",
+  "description": "cyp dependencies",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^9.4.1"
+  },
+  "devDependencies": {
+    "eslint-plugin-cypress": "^2.12.1"
+  },
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmedca/cyp.git"
+  },
+  "author": "kmedca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmedca/cyp/issues"
+  },
+  "homepage": "https://github.com/kmedca/cyp#readme"
+}
